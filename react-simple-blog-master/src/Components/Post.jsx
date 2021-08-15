@@ -1,7 +1,7 @@
 import React from "react";
 import ReactMarkdown from "react-markdown"
 
-const Post = ({ title, content, shortDescription, editPost, id, deletePost }) => {
+const Post = ({ title, content, shortDescription, , id }) => {
   return (
     <>
       <section className="post-container">

@@ -19,3 +19,6 @@ Github Repo Link - https://github.com/souravjain540/markdown-blog
 
 Website- https://amplication.com
 
+# Blog
+
+Medium Tutorial - https://medium.com/geekculture/make-a-markdown-blog-using-amplication-and-reactjs-8bec5e59fdc3
